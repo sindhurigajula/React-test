@@ -64,7 +64,7 @@ export const DISHES =
             {
             id: 1,
             rating: 4,
-            comment: "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+            comment: "Zucchipakoda Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
             author: "Paul McVites",
             date: "2014-09-05T17:57:28.556094Z"
             },
@@ -117,7 +117,7 @@ export const DISHES =
             {
             id: 2,
             rating: 3,
-            comment: "Eat it, just eat it!",
+            comment: "Eat Vadonut, just eat it!",
             author: "Michael Jaikishan",
             date: "2015-02-13T17:57:28.556094Z"
             },
@@ -170,7 +170,7 @@ export const DISHES =
             {
             id: 3,
             rating: 4,
-            comment: "Ultimate, Reaching for the stars!",
+            comment: "Ultimate cheesecake, Reaching for the stars!",
             author: "Ringo Starry",
             date: "2013-12-02T17:57:28.556094Z"
             },
