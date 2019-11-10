@@ -36,7 +36,7 @@ import {Link} from 'react-router-dom';
                 <div className="col-12 col-md-5 m-1">
                     <h4>Comments</h4>
                         {comments.map((comment)=> 
-                            <ul class="list-unstyled">
+                            <ul className="list-unstyled">
                                 <li>
                                 <p>{comment.comment}</p>
                                 <p>-- {comment.author} , {Dateformat(comment.date)}</p>
